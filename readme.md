@@ -4,3 +4,5 @@ Durante o curso "Bancos de dados e SQL para Ciência de Dados da IBM", trabalhei
 O processo de carregamento de dados em uma tabela no Db2 Warehouse foi dividido em quatro etapas: obter, segmentar, definir e finalizar. Depois de carregados, os dados foram recuperados através de scripts Python que recuperam dados e os gravam no Db2. Esses scripts foram utilizados para gerar modelos estatísticos baseados em dados e para analisar os dados.
 Fizemos uma análise de dados para descobrir qual alimento do cardápio do McDonald's tinha o maior teor de sódio. Para isso, utilizamos a visualização de gráfico de dispersão e gráfico de caixa.
 Ao final do projeto, consegui entender melhor a análise exploratória de dados e como utilizar ferramentas como o IBM DB2 Warehouse e Python para trabalhar com grandes conjuntos de dados.
+
+![image](https://user-images.githubusercontent.com/109030838/230699019-6d574d45-1491-45f6-a515-62a5c7d5a328.png)
