@@ -1,7 +1,7 @@
 # 📊 Análise Exploratória de Dados com IBM DB2 Warehouse, Python e Jupyter Notebook
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/109030838/230699019-6d574d45-1491-45f6-a515-62a5c7d5a328.png" alt="Conversor_de_Moeda" width="400">
+<img src="https://user-images.githubusercontent.com/109030838/230699019-6d574d45-1491-45f6-a515-62a5c7d5a328.png" alt="Mc Donalds" width="400">
 </p>
 
 Durante o curso **"Bancos de Dados e SQL para Ciência de Dados da IBM"**, desenvolvi um projeto abrangendo a análise exploratória de dados nutricionais do cardápio popular do McDonald's.
