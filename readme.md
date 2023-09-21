@@ -1,8 +1,32 @@
-`*Bancos de dados e SQL para Ciência de Dados*´
+# 📊 Análise Exploratória de Dados com IBM DB2 Warehouse, Python e Jupyter Notebook
 
-Durante o curso "Bancos de dados e SQL para Ciência de Dados da IBM", trabalhei em um projeto que utilizou conceitos de análise exploratória de dados. Utilizei o IBM DB2 Warehouse como banco de dados em nuvem e o Python para fazer a análise dos dados. O conjunto de dados que foi utilizado foram os dados nutricionais de opções populares do cardápio do McDonald's.
-O processo de carregamento de dados em uma tabela no Db2 Warehouse foi dividido em quatro etapas: obter, segmentar, definir e finalizar. Depois de carregados, os dados foram recuperados através de scripts Python que recuperam dados e os gravam no Db2. Esses scripts foram utilizados para gerar modelos estatísticos baseados em dados e para analisar os dados.
-Fizemos uma análise de dados para descobrir qual alimento do cardápio do McDonald's tinha o maior teor de sódio. Para isso, utilizamos a visualização de gráfico de dispersão e gráfico de caixa.
-Ao final do projeto, consegui entender melhor a análise exploratória de dados e como utilizar ferramentas como o IBM DB2 Warehouse e Python para trabalhar com grandes conjuntos de dados.
+<p align="center">
+<img src="https://user-images.githubusercontent.com/109030838/230699019-6d574d45-1491-45f6-a515-62a5c7d5a328.png" alt="Conversor_de_Moeda" width="400">
+</p>
 
-![image](https://user-images.githubusercontent.com/109030838/230699019-6d574d45-1491-45f6-a515-62a5c7d5a328.png)
+Durante o curso **"Bancos de Dados e SQL para Ciência de Dados da IBM"**, desenvolvi um projeto abrangendo a análise exploratória de dados nutricionais do cardápio popular do McDonald's.
+
+## 🛠️ Ferramentas e Tecnologias Utilizadas
+- **IBM DB2 Warehouse**: Banco de dados em nuvem utilizado para armazenar os dados nutricionais.
+- **Python**: Linguagem de programação utilizada para análise e manipulação de dados.
+- **Jupyter Notebook**: Ambiente interativo que facilitou a execução de códigos em Python e visualização dos resultados.
+
+## 🔄 Processo de Carregamento de Dados
+O carregamento de dados no Db2 Warehouse foi realizado em quatro etapas principais:
+1. **Obter**: Captura dos dados originais.
+2. **Segmentar**: Divisão dos dados em porções adequadas.
+3. **Definir**: Estabelecimento das estruturas e relações de dados.
+4. **Finalizar**: Confirmação e finalização do carregamento.
+
+Posteriormente, os dados armazenados foram acessados usando scripts Python, permitindo recuperação e gravação no Db2. Estes scripts, executados no Jupyter Notebook, também possibilitaram a geração de modelos estatísticos e análises avançadas.
+
+## 🔍 Análise de Dados
+Focamos na identificação do item do menu do McDonald's com o maior teor de sódio. Para visualização e análise, foram empregados:
+- Gráfico de dispersão.
+- Gráfico de caixa (Box plot).
+
+## 📌 Conclusões
+Este projeto proporcionou uma compreensão aprofundada sobre análise exploratória de dados e a utilização eficiente de ferramentas como o IBM DB2 Warehouse, Python e Jupyter Notebook, especialmente ao lidar com datasets volumosos.
+
+
+
